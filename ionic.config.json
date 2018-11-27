@@ -1,0 +1,8 @@
+{
+  "name": "joopiterApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "a9ee9507"
+}
